@@ -1,45 +1,27 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Deepanshu Goel",
+    "occupation": "Full Stack Developer | UI/UX Designer",
+    "description": "I am a Full Stack Developer and UI/UX Designer. I have a passion for web development and love to create web applications that are user-friendly and visually appealing. I am always looking for new opportunities to learn and grow as a developer.",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "As a highly motivated and passionate developer and designer, I am constantly driven by a thirst for knowledge and a keen interest in experimenting with new technologies. My extensive experience in building and publishing web applications using React.js has been instrumental in my professional growth.I pride myself on excellent communication skills, which have enabled me to collaborate effectively on various open-source projects and thrive in team environments. I firmly believe that collaboration is essential for both personal and professional development, as it pushes our potential and fosters continuous learning from others. Currently, I am delving into CI/CD workflows and blockchain contract building, two exciting technologies that are shaping the future of software development. Being part of this dynamic industry fuels my enthusiasm to learn and grow continuously. In summary, I am a dedicated and experienced developer with a strong desire to explore new technologies. My proven track record in React.js development, combined with my collaborative approach and communication skills, positions me well to contribute to innovative projects and advance in the ever-evolving tech landscape.",
+    "email": "symaticvisuals02@gmail.com",
+    "phone": "+91 8810421579",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "city": "Delhi"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://deepanshuweb.in/",
+    "resumedownload": "https://drive.google.com/file/d/1jvuCF951epzwY7Xq85kfgEjIf6j0KefG/view?usp=sharing",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/deepanshuweb/",
         "className": "fa fa-linkedin"
       },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
+
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/symaticvisuals",
         "className": "fa fa-github"
       }
     ]
@@ -48,74 +30,81 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "The Northcap University",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "graduated": "July 2023",
+        "description": "Graduated with a Bachelor's Degree in Computer Science. I learned a lot about software development, algorithms, data structures, and web development."
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Mages Studio",
+        "title": "Software Developer",
+        "years": "Feb 2023 - Present",
+        "description": "Enhanced CI/CD pipelines, reducing deployment times by 30% and improving workflow efficiency through automation with Docker adn Github Actions. Led the transformation of 4+ projects into customer-centric products, achieving a 25% increase in user satisfaction and engagement metrics. Spearheaded the upgrade and maintenance of key software products, ensuring 99.9% uptime and incorporating new features based on customer feedback."
+      },
+      {
+        "company": "Pillup",
+        "title": "Software Developer Intern",
+        "years": "Jun 2022 - Dec 2022",
+        "description": "Led the development of the Investor Dashboard and Prescriptionater projects, utilizing React.js and Node.js, and implemented RESTful APIs, enhancing system functionality and user interface. Ensured high code quality and reliability by implementing automated testing frameworks, resulting in a 40% reduction in bugs post-deployment."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "80%"
       },
-      {
-        "name": "Python",
-        "level": "85%"
-      },
+
       {
         "name": "Git",
         "level": "70%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "80%"
+      },
+      {
+        "name": "Typescript",
+        "level": "50%"
       },
       {
         "name": "Web Development",
         "level": "95%"
+      },
+      {
+        "name": "Java",
+        "level": "45%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
+        "title": "Git Riddle",
+        "category": "AI, Web Development",
         "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "url": "git-riddle.vercel.app"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
+        "title": "Artists World",
+        "category": "Education",
         "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "url": "https://4artindia.vercel.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
+        "title": "PID Projects",
+        "category": "Interior Design",
         "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "url": "https://www.pidprojects.in/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "I Believe Logic builds inventions, & Design brings Intensions",
+        "user": "Deepanshu Goel"
       }
     ]
   }
