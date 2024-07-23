@@ -1,8 +1,8 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# Resume Deepanshu Goel
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+![PAPA React JS Portfolio Starter Pack](resume-screenshot.png?raw=true "PAPA React JS Portfolio Stater Pack ")
 
-### <a href="https://669e9d080c86fb1064954aae--soft-begonia-4eba06.netlify.app/">LIVE DEMO</a>
+### <a href="https://deepanshu-goel.vercel.app/">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
